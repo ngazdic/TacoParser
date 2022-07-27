@@ -1,10 +1,10 @@
-# Taco Parser Kata
+# Taco Parser Project
 
 An exercise in geolocation, csv parsing, and logging
 
-## Kata Overview
+## Project Overview
 
-Here's what you'll need to do for this Kata:
+Here are the steps and TODO  for this projcect:
 
 1. Clone this repo to your machine
 2. Complete all the `TODO`s, while adding appropriate log statements along the way. You can find more details below in the Kata Details section:
@@ -13,7 +13,7 @@ Here's what you'll need to do for this Kata:
     3. Use the [GeoCoordinate.NetCore](https://www.nuget.org/packages/GeoCoordinate.NetCore/) NuGet package to calculate distance between two points
 3. Reduce the logging verbosity and rerun
 
-## Kata Details
+## Project Details
 
 Here's some more details for completing the steps above.
 
